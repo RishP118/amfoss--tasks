@@ -17,13 +17,13 @@ Well, I will contribute by participating in coding challenges, workshops, etc. I
 | [Task-04](https://github.com/RishP118/amfoss--tasks/tree/main/task-04) | Competitive Programming  | Incomplete  |
 | [Task-05](https://github.com/RishP118/amfoss--tasks/tree/main/task-05) | Hypertext Mockup Language| Completed   |
 | [Task-06](https://github.com/RishP118/amfoss--tasks/tree/main/task-06) | Cricket Vault            | Completed   |
-| [Task-07](https://github.com/RishP118/amfoss--tasks/tree/main/task-07) | AK-47℃                  | Completed   |
+| [Task-07](https://github.com/RishP118/amfoss--tasks/tree/main/task-07) | AK-47℃                   | Completed   |
 | [Task-08](https://github.com/RishP118/amfoss--tasks/tree/main/task-08) | Poke-Search!             | Completed   |
 | [Task-09](https://github.com/RishP118/amfoss--tasks/tree/main/task-09) | GeoQuest                 | Unattempted |
 | [Task-10](https://github.com/RishP118/amfoss--tasks/tree/main/task-10) | RuskOS                   | Unattempted |
 | [Task-11](https://github.com/RishP118/amfoss--tasks/tree/main/task-11) | TinkerCAD                | Unattempted |
 | [Task-12](https://github.com/RishP118/amfoss--tasks/tree/main/task-12) | Godot                    | Unattempted |
-| [Task-13](https://github.com/RishP118/amfoss--tasks/tree/main/task-13) | Vim                      | Unattempted |
+| [Task-13](https://github.com/RishP118/amfoss--tasks/tree/main/task-13) | Vim                      | Completed   |
 | [Task-14](https://github.com/RishP118/amfoss--tasks/tree/main/task-14) | Bandit                   | Completed   |
 | [Task-15](https://github.com/RishP118/amfoss--tasks/tree/main/task-15) | Project Euler            | Unattempted |
 
