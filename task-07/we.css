@@ -1,0 +1,47 @@
+*{
+    padding: 10px;
+    margin: 0px;
+}
+
+
+body {
+    background-image: url('clouds2.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+
+h1 {
+    color: black; 
+    text-align: center;
+}
+
+
+#cityInput {
+    top: 20px;    
+    background-color: rgba(255, 255, 255, 0.5);
+    border: 1px solid #d2c2c2; 
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+}
+
+.search-container {
+    margin-top: 10px;
+}
+
+
+#Enter {
+    background-color: rgba(255, 255, 255, 0.5);
+    border: #ccc;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.rr {
+    text-align: center;
+}
+
+#Result {
+    font-size: 18px;
+    margin-top: 20px; 
+}
